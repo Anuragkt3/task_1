@@ -2,7 +2,7 @@ library(shiny)
 
 # Define UI for application
 ui <- fluidPage(
-  titlePanel("Hello World Shiny App"),
+  titlePanel("Hello World"),
   sidebarLayout(
     sidebarPanel(
       # You can add inputs or controls here if needed
